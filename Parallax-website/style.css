@@ -1,0 +1,226 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home1-img {
+  width: 100%;
+  height: 100vh;
+  background-image: url(img/92755.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+}
+
+.home1-header {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.home1-header h1 {
+  border: 3px solid #c4c960;
+  box-shadow: 1px 1px 5px 3px #c4c960;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding: 5px 5px;
+  color: #e2be7a;
+  outline: 5px solid rgb(192, 192, 192, 0.192);
+  outline-offset: 10px;
+  font-family: "Cinzel", serif;
+}
+
+.home2-img {
+  background-image: url(img/movies-fantasy-art-the-lord-of-the-rings-the-fellowship-of-the-ring-artwork-mountains-hd-wallpaper-preview.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-position: center;
+  position: relative;
+}
+
+.home2-text {
+  background-color: aqua;
+  padding: 40px;
+  text-align: center;
+}
+
+.home2-text h1 {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 10px;
+  box-shadow: 1px 1px 5px 3px darkred;
+}
+
+.home2-text p {
+  opacity: 0.5;
+}
+
+.home2-header {
+  display: inline-block;
+  background-image: none;
+  position: absolute;
+  top: 60%;
+  right: 39%;
+  left: 39%;
+  text-align: center;
+  color: white;
+}
+
+.home2-header h1 {
+  border: 3px solid #c4c960;
+  box-shadow: 1px 1px 5px 3px #c4c960;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding: 5px 3px;
+  color: black;
+  outline: 5px solid rgb(192, 192, 192, 0.4);
+  outline-offset: 10px;
+  font-family: "Cinzel", serif;
+  letter-spacing: 2px;
+}
+
+.home3-img {
+  background-image: url(img/desktop-wallpaper-the-lord-of-the-rings-the-two-towers.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-position: center;
+  position: relative;
+}
+
+.home3-text {
+  background-color: aqua;
+  padding: 40px;
+  text-align: center;
+}
+
+.home3-text h1 {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 10px;
+  box-shadow: 1px 1px 5px 3px darkred;
+}
+
+.home3-text p {
+  opacity: 0.5;
+}
+
+.home3-header {
+  display: inline-block;
+  background-image: none;
+  position: absolute;
+  top: 60%;
+  right: 39%;
+  left: 39%;
+  text-align: center;
+  color: white;
+}
+
+.home3-header h1 {
+  border: 3px solid #c4c960;
+  box-shadow: 1px 1px 5px 3px #c4c960;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding: 5px 3px;
+  color: Black;
+  outline: 5px solid rgb(192, 192, 192, 0.4);
+  outline-offset: 10px;
+  font-family: "Cinzel", serif;
+  letter-spacing: 2px;
+}
+
+.home4-img {
+  background-image: url(img/8acfba7417b2d15fcc86f0c9252a60b7.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-position: center;
+  position: relative;
+}
+
+.home4-text {
+  background-color: aqua;
+  padding: 40px;
+  text-align: center;
+}
+
+.home4-text h1 {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 10px;
+  box-shadow: 1px 1px 5px 3px darkred;
+}
+
+.home4-text p {
+  opacity: 0.5;
+}
+
+.home4-header {
+  display: inline-block;
+  background-image: none;
+  position: absolute;
+  top: 60%;
+  right: 39%;
+  left: 39%;
+  text-align: center;
+  color: white;
+}
+
+.home4-header h1 {
+  border: 3px solid #c4c960;
+  box-shadow: 1px 1px 5px 3px #c4c960;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding: 5px 3px;
+  color: #e2be7a;
+  outline: 5px solid rgb(192, 192, 192, 0.4);
+  outline-offset: 10px;
+  font-family: "Cinzel", serif;
+  letter-spacing: 2px;
+}
+
+.home5-img {
+  background-image: url(img/art-artistic-artwork-fantasy-wallpaper-preview.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-position: center;
+  position: relative;
+}
+
+.home5-text {
+  background-color: aqua;
+  padding: 40px;
+  text-align: center;
+}
+
+.home5-text h1 {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 10px;
+  box-shadow: 1px 1px 5px 3px darkred;
+}
+
+.home5-text p {
+  opacity: 0.5;
+}
+
+.home5-header {
+  display: inline-block;
+  background-image: none;
+  position: absolute;
+  top: 60%;
+  right: 39%;
+  left: 39%;
+  text-align: center;
+  color: white;
+}
