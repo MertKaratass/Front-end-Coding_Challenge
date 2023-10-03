@@ -1,0 +1,93 @@
+body {
+  background-color: black;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  background-color: rgb(48, 46, 46, 0.815);
+  border-radius: 20px;
+}
+
+.header {
+  display: block;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  font-family: "Lobster", cursive;
+}
+
+.header span {
+  color: red;
+}
+
+.image img {
+  width: 400px;
+  border-radius: 40px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
+  box-shadow: 5px 5px 500px red;
+}
+
+.image p {
+  text-align: center;
+  color: white;
+}
+
+.p {
+  color: white;
+  padding: 20px 70px;
+  margin: 0 auto;
+  font-size: 1.5rem;
+  text-align: justify;
+  margin-top: 20px;
+  word-spacing: 5px;
+}
+
+.list h2 {
+  color: red;
+  font-family: "Lobster", cursive;
+  padding: 0px 70px;
+  margin: 0 auto;
+}
+
+.list ul {
+  color: white;
+  padding: 0 90px;
+}
+
+.list ul li {
+  color: white;
+  font-size: 24px;
+  line-height: 48px;
+}
+
+.footer p {
+  text-align: center;
+  font-size: 32px;
+  color: white;
+  padding-bottom: 20px;
+}
+
+.footer button {
+  border: 2px solid orange;
+  background-color: black;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.footer button:hover {
+  background-color: rgb(48, 46, 46, 0.815);
+}
+
+.footer button a {
+  color: white;
+  padding: 30px;
+  font-size: 32px;
+  text-decoration: none;
+}
+
+.footer button a:hover {
+  color: red;
+}
