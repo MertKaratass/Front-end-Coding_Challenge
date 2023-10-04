@@ -16,9 +16,7 @@
 
 .home1-header {
   display: flex;
-  text-align: center;
   align-items: center;
-  justify-content: center;
   margin: 0 auto;
 }
 
@@ -33,6 +31,7 @@
   outline-offset: 10px;
   font-family: "Cinzel", serif;
 }
+/* !-----------! */
 
 .home2-img {
   background-image: url(img/movies-fantasy-art-the-lord-of-the-rings-the-fellowship-of-the-ring-artwork-mountains-hd-wallpaper-preview.jpg);
@@ -65,9 +64,9 @@
   display: inline-block;
   background-image: none;
   position: absolute;
-  top: 60%;
-  right: 39%;
-  left: 39%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   text-align: center;
   color: white;
 }
@@ -84,6 +83,8 @@
   font-family: "Cinzel", serif;
   letter-spacing: 2px;
 }
+
+/* !-----------! */
 
 .home3-img {
   background-image: url(img/desktop-wallpaper-the-lord-of-the-rings-the-two-towers.jpg);
@@ -116,9 +117,9 @@
   display: inline-block;
   background-image: none;
   position: absolute;
-  top: 60%;
-  right: 39%;
-  left: 39%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   text-align: center;
   color: white;
 }
@@ -135,6 +136,8 @@
   font-family: "Cinzel", serif;
   letter-spacing: 2px;
 }
+
+/* !-----------! */
 
 .home4-img {
   background-image: url(img/8acfba7417b2d15fcc86f0c9252a60b7.jpg);
@@ -167,9 +170,9 @@
   display: inline-block;
   background-image: none;
   position: absolute;
-  top: 60%;
-  right: 39%;
-  left: 39%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   text-align: center;
   color: white;
 }
@@ -186,6 +189,8 @@
   font-family: "Cinzel", serif;
   letter-spacing: 2px;
 }
+
+/* !-----------! */
 
 .home5-img {
   background-image: url(img/art-artistic-artwork-fantasy-wallpaper-preview.jpg);
@@ -218,9 +223,9 @@
   display: inline-block;
   background-image: none;
   position: absolute;
-  top: 60%;
-  right: 39%;
-  left: 39%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   text-align: center;
   color: white;
 }
